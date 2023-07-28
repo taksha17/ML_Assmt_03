@@ -1,0 +1,7 @@
+Author :- Taksha Sachin Thosani
+
+Student Id : 1002086312
+
+Github Link :- https://github.com/taksha17/ML_Assmt_03
+
+The resampling of data in Ramndom Forrest() is done using umporting randoms and just using the random numbers instead of the defualt form decission tree.
